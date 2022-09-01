@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:pixelsize=16:antialias=true:autohint=true";
+static char *font = "JetBrainsMono Nerd Font:pixelsize=16:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-    "JetBrainsMono Nerd Font:pixelsize=16:antialias=true:autohint=true",
+    //"Liberation Mono:pixelsize=16:antialias=true:autohint=true",
     "MesloLGS Nerd Font Mono:pixelsize=16:antialias=true:autohint=true",
     //"FiraCode Nerd Font Mono:pixelsize=16:antialias=true:autohint=true",
 /*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
